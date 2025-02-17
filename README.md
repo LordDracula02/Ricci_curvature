@@ -1,0 +1,1 @@
+# Ricci_curvature
